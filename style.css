@@ -1,0 +1,29 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hero {
+    background: url('banner.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.hero h1 {
+    font-size: 4rem;
+}
+
+.hero p {
+    font-size: 1.25rem;
+}
+
+.card {
+    border: none;
+    border-radius: 0.5rem;
+}
+
+.card-img-top {
+    border-radius: 0.5rem 0.5rem 0 0;
+}
+
+footer {
+    background-color: #343a40;
+}
